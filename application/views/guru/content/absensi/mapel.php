@@ -32,10 +32,10 @@
                       <?php } ?>
                     </select>
                   </div>
-                  
+
                   <div class="form-group col-md-2">
                     <select name="mapel" id="mapel" class="form-control">
-                    <option value=" ">PIlih Mata Pelajaran</option>
+                    <option value="">PIlih Mata Pelajaran</option>
                       <?php
                       foreach ($mapel as $km) {
                       ?>
